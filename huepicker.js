@@ -24,13 +24,13 @@ var hueColour = [0,0,0]
 // --------------------------------------------
 //
 // EDIT: Your API key here
-var apikey = "a2d7f7b9ac7f1be7ac096ed126fc245f" 
+var apikey = "91a5f7b9ac1f14e7ac196ea162cfa712" 
 //
 // EDIT: Which light we are controlling (hard coded to 3 here)
 var lightnumber = "3"
 //
 // EDIT: Host URL endpoint for the REST API
-var lighthost = "http://webearth.org:2008"
+var lighthost = "http://192.168.0.1:8000"
 //
 // URL string to control light 
 var urlstr = lighthost + "/api/" + apikey + "/lights/" + lightnumber + "/state"
