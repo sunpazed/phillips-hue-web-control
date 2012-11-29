@@ -2,7 +2,8 @@ Phillips Hue Web Control
 =============
 
 A small utility to update the colour of your Phillips Hue light via a simple webpage control.
-Currently untested, please feel free to test and contribute your ideas.
+Currently untested, and hasily thrown together over an hour or so. 
+Please feel free to test and contribute your ideas.
 
 How to use it
 -------------
@@ -20,5 +21,5 @@ What's missing
 
 --
 
-Franco (@sunpazed)
+Franco Trimboli (@sunpazed)
 
