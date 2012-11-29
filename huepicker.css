@@ -18,7 +18,8 @@ body {
     margin-top: 80px;
     text-align: center;
 }
-#result {
+a#result {
+    text-decoration: none;
     width:800px;
     height:auto;
     display:block;
@@ -30,7 +31,6 @@ body {
     border-radius: 8px;
     vertical-align: middle;
     text-align: center;
-    cursor: hand;
 }
 
 #canvas {
