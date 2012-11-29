@@ -1,7 +1,7 @@
-Phillips Hue Web Control
+Philips Hue Web Control
 =============
 
-A small utility to update the colour of your Phillips Hue light via a simple webpage control.
+A small utility to update the colour of your Philips Hue light via a simple webpage control.
 Currently untested, and hasily thrown together over an hour or so. 
 Please feel free to test and contribute your ideas.
 
